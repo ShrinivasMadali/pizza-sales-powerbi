@@ -107,6 +107,6 @@ To increase revenue:
 ## 📬 Contact  
 💼 Shrinivas_Madali_Data Analyst_  
 📧 **shrinivasmadali4@gmail.com**  
-🔗 [LinkedIn](linkedin.com/in/shrinivas-madali) | [GitHub]([https://github.com/](https://github.com/ShrinivasMadali))  
+🔗 [LinkedIn](https://www.linkedin.com/in/shrinivas-madali/)  
 
 ---
