@@ -35,7 +35,7 @@ This interactive **Power BI dashboard** helps the pizza store’s management:
 ---
 
 ## 📸 Dashboard Preview  
-*(Insert dashboard screenshots or GIF here)*  
+- <a href="https://github.com/ShrinivasMadali/pizza-sales-powerbi/blob/main/Pizza%20project.pdf">Dashboard preview
 
 ---
 
