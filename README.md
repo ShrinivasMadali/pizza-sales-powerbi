@@ -1,11 +1,11 @@
 # 🍕 Pizza Sales Data Analysis  
-**_Interactive Dashboard in MS Excel_**
+**_Interactive Dashboard in Power BI_**
 
 ---
 
 ## 🎯 Project Objective  
-The goal of this project is to analyze annual pizza sales data, identify customer purchase patterns, and generate actionable insights to improve sales strategies.  
-This interactive Excel dashboard enables the pizza store’s management to:  
+The aim of this project is to analyze annual pizza sales data, identify customer purchase patterns, and generate actionable insights to improve sales strategies.  
+This interactive **Power BI dashboard** helps the pizza store’s management:  
 - Understand sales trends 📊  
 - Optimize product offerings 🍽️  
 - Boost overall revenue 💰  
@@ -29,13 +29,13 @@ This interactive Excel dashboard enables the pizza store’s management to:
 ## 🔍 Process  
 - ✅ Verified and cleaned data for missing values and inconsistencies  
 - 📅 Standardized date, category, and price formats  
-- 📊 Created pivot tables for each KPI and analysis question  
-- 🎛️ Designed an interactive dashboard with slicers for dynamic filtering  
+- 📊 Built data model in **Power BI** with relationships and calculated measures (DAX)  
+- 🎛️ Designed an interactive dashboard with slicers, filters, and drill-through functionality  
 
 ---
 
 ## 📸 Dashboard Preview  
-*(Insert dashboard screenshots here)*  
+*(Insert dashboard screenshots or GIF here)*  
 
 ---
 
@@ -56,8 +56,9 @@ To increase revenue:
 ---
 
 ## 🛠 Tools & Technologies  
-- **Microsoft Excel** – Data cleaning, Pivot Tables, Dashboard creation  
-- **Excel Slicers & Charts** – Interactive visual analysis  
+- **Power BI** – Data modeling, DAX calculations, Dashboard creation  
+- **Power Query** – Data cleaning & transformation  
+- **DAX** – Calculated columns & measures  
 
 ---
 
