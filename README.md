@@ -22,7 +22,7 @@ This interactive **Power BI dashboard** helps the pizza store’s management:
 ---
 
 ## 📂 Dataset Used  
-*(Attach or link the dataset here if shareable)*  
+- <a href="https://github.com/ShrinivasMadali/pizza-sales-powerbi/blob/main/pizza_sales.csv" >Dataset
 
 ---
 
