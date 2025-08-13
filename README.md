@@ -13,11 +13,11 @@ This interactive **Power BI dashboard** helps the pizza store’s management:
 ---
 
 ## 📌 Key Performance Indicators (KPIs)  
-1. 💵 **Total Revenue** – Sum of all sales in the year  
-2. 🍕 **Total Pizzas Sold** – Quantity of pizzas sold across all categories  
-3. 🛒 **Total Orders** – Number of completed customer orders  
-4. 📈 **Average Order Value (AOV)** – Total revenue ÷ total orders  
-5. 🕒 **Peak Sales Period** – Date/time slot with the highest sales  
+- 💰 **Total Revenue** – Total income from all pizza sales.  
+- 📝 **Average Order Value (AOV)** – Average amount spent per order.  
+- 🍕 **Total Pizzas Sold** – Total quantity of pizzas sold.  
+- 📦 **Total Orders** – Number of completed customer orders.  
+- 🍽️ **Average Pizzas per Order** – Average number of pizzas in each order.
 
 ---
 
@@ -25,6 +25,41 @@ This interactive **Power BI dashboard** helps the pizza store’s management:
 - <a href="https://github.com/ShrinivasMadali/pizza-sales-powerbi/blob/main/pizza_sales.csv" >Dataset
 
 ---
+## ❓ KPI Questions  
+- What is the total revenue generated?(year wise, month wise and day wise).  
+- Which month had the highest revenue?  
+- Which pizza size generated the most sales?  
+- Which category sold the most pizzas?  
+- What was the average number of pizzas per order?
+
+## ❓ Questions & Answers  
+
+**1️⃣ Which days and times recorded the highest sales?**  
+Weekends, especially **Friday to Sunday evenings**, showed the highest revenue and order counts.  
+
+**2️⃣ Which pizza size contributed the most to total sales?**  
+**Large size pizzas** generated the most revenue, followed by **Medium**.  
+
+**3️⃣ Which pizza category performed best in terms of sales value?**  
+**Classic pizzas** led in revenue, followed by **Supreme** and **Specialty**.  
+
+**4️⃣ Which individual pizzas sold the most by quantity?**  
+**Classic Deluxe**, **Pepperoni Pizza**, and **BBQ Chicken Pizza** were top sellers by volume.  
+
+**5️⃣ Which pizzas generated the highest total revenue?**  
+**Supreme Deluxe** and **Classic Deluxe** brought in the most sales revenue.  
+
+**6️⃣ What was the distribution of orders across different times of the day?**  
+Most orders occurred during **dinner hours (5 PM – 8 PM)**, followed by **lunch hours (12 PM – 2 PM)**.  
+
+**7️⃣ Which months performed best in sales?**  
+**July** and **December** had peak sales, driven by seasonal promotions and holiday orders.  
+
+**8️⃣ Which order mode brought the most sales?**  
+**In-store orders** accounted for the largest share of sales, with online orders steadily increasing.  
+
+---
+
 
 ## 🔍 Process  
 - ✅ Verified and cleaned data for missing values and inconsistencies  
@@ -39,13 +74,20 @@ This interactive **Power BI dashboard** helps the pizza store’s management:
 
 ---
 
-## 💡 Insights  
-- 🍽️ Certain pizza types generate **higher revenue despite fewer quantities sold**  
-- 📆 Peak sales occur **during weekends and dinner hours**  
-- 🏆 Specialty pizzas have a **higher Average Order Value** compared to classic varieties  
-- 📏 Large-size pizzas dominate **in terms of revenue contribution**  
+## 💡 Insights from the Report  
+
+- **Sales Trends:** Revenue peaks during weekends and dinner hours, suggesting targeted promotions during these periods could boost sales even further.  
+- **Top-Performing Sizes:** Large pizzas dominate revenue contribution, while medium pizzas lead in total orders.  
+- **Category Performance:** Classic pizzas are a consistent bestseller; Supreme pizzas, though sold in lower volumes, contribute heavily to total revenue due to higher prices.  
+- **Product Performance:** The **Classic Deluxe** and **Pepperoni Pizza** dominate in quantity sold, while **Supreme Deluxe** is the revenue champion.  
+- **Seasonal Impact:** July and December experience noticeable spikes in sales, correlating with holiday seasons and special events.  
+- **Customer Preferences:** Customers prefer ordering in-store but online sales channels are showing steady growth, highlighting a digital adoption trend.  
+- **Order Behavior:** Average order size is about 2–3 pizzas, indicating most customers purchase for small groups or families.  
+- **Opportunities:** Increasing bundle deals for large pizzas and promoting high-margin specialty pizzas during peak hours could further maximize revenue.  
 
 ---
+## Dashboard Interaction 
+- <a href="https://github.com/ShrinivasMadali/pizza-sales-powerbi/blob/main/pizza%20sales%20project.pbix">Dashboard Interaction 
 
 ## 🚀 Final Conclusion  
 To increase revenue:  
@@ -63,8 +105,8 @@ To increase revenue:
 ---
 
 ## 📬 Contact  
-💼 **Your Name** – _Data Analyst_  
-📧 **your.email@example.com**  
-🔗 [LinkedIn](https://linkedin.com/) | [GitHub](https://github.com/)  
+💼 Shrinivas_Madali_Data Analyst_  
+📧 **shrinivasmadali4@gmail.com**  
+🔗 [LinkedIn](linkedin.com/in/shrinivas-madali) | [GitHub]([https://github.com/](https://github.com/ShrinivasMadali))  
 
 ---
